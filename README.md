@@ -1,8 +1,7 @@
 metallist
 =========
 
-Distributed metal recommendations
----------------------------------
+#### Distributed metal recommendations ####
 
 For each band please try to put at least name, country, a listen link, and comments.
 
